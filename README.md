@@ -1,1 +1,2 @@
 # Getting-admission_Prediction
+This project focuses on predicting the likelihood of a student's admission into a university or educational institution based on various factors such as academic performance, test scores, and personal attributes. Leveraging data science and machine learning techniques, the system aims to provide accurate insights to assist universities and students in the admissions process.
